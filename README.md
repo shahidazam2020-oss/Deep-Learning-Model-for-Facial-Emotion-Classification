@@ -154,6 +154,7 @@ The system classifies facial expressions into **7 emotion categories**:
                     │    Emotion Prediction   │
                     └─────────────────────────┘
 </div> ```
+```
 
 ---
 
