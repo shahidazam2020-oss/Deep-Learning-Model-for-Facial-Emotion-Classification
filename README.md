@@ -94,7 +94,7 @@ The system classifies facial expressions into **7 emotion categories**:
 ```
 
 ---
-
+<div align="center">
 # 🏗️ Project Architecture
 
 ```text
