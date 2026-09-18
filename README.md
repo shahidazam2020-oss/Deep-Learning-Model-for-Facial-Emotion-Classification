@@ -98,6 +98,8 @@ The system classifies facial expressions into **7 emotion categories**:
   
 # 🏗️ Project Architecture
 
+<div align="center">
+
 ```text
                     ┌─────────────────────────┐
                     │     Facial Images       │
@@ -151,7 +153,7 @@ The system classifies facial expressions into **7 emotion categories**:
                     │    Upload Image →       │
                     │    Emotion Prediction   │
                     └─────────────────────────┘
-```
+</div> ```
 
 ---
 
