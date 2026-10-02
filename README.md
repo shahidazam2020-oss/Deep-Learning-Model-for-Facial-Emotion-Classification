@@ -317,7 +317,7 @@ Resnet_model_version_2.keras
 
 # 🗂️ Dataset Structure
 
-The repository contains separate **training** and **testing** directories.
+**The repository contains separate **training** and **testing** directories.**
 
 ```text
 📦 Project
