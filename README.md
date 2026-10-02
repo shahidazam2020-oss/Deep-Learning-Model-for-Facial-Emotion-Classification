@@ -174,7 +174,7 @@ The architecture includes:
 * Fully connected layers
 * Softmax output layer
 
-*The CNN processes facial images at **48 × 48** resolution with a grayscale input configuration.*
+**The CNN processes facial images at **48 × 48** resolution with a grayscale input configuration.**
 
 ```text
 Input Image
