@@ -217,7 +217,7 @@ Classification
 
 # 🚀 2️⃣ VGG16 Transfer Learning
 
-The second major approach uses **VGG16 pretrained on ImageNet**.
+**The second major approach uses **VGG16 pretrained on ImageNet**.**
 
 Images are resized to:
 
