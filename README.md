@@ -461,7 +461,7 @@ class_weight=class_weights_dict
 
 ### 📉 ReduceLROnPlateau
 
-Reduces the learning rate when validation performance stops improving.
+*Reduces the learning rate when validation performance stops improving.*
 
 ### 📋 CSVLogger
 
