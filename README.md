@@ -46,7 +46,7 @@ The final workflow includes:
 * 🧪 Model evaluation
 * 🌐 Gradio-based image prediction interface
 
-The trained ResNet50V2 model is also prepared for deployment, allowing users to upload an image and obtain a predicted facial emotion.
+**The trained ResNet50V2 model is also prepared for deployment, allowing users to upload an image and obtain a predicted facial emotion.**
 
 ---
 
