@@ -407,7 +407,7 @@ rescale = 1 / 255.
 
 # ⚖️ Class Imbalance Handling
 
-The notebook calculates **balanced class weights** using:
+**The notebook calculates **balanced class weights** using:**
 
 ```python
 compute_class_weight(
