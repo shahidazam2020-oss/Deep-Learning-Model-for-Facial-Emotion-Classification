@@ -390,7 +390,7 @@ rescale = 1 / 255.
 
 # 🔄 Data Augmentation
 
-Training images are augmented using transformations such as:
+**Training images are augmented using transformations such as:**
 
 | Augmentation    | Configuration |
 | --------------- | ------------- |
