@@ -157,7 +157,7 @@ The final workflow includes:
 
 # 🔬 Deep Learning Models
 
-The notebook experiments with three major approaches.
+**The notebook experiments with three major approaches.**
 
 ## 1️⃣ Custom CNN
 
