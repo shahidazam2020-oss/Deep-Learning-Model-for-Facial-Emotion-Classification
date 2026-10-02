@@ -401,7 +401,7 @@ rescale = 1 / 255.
 | Horizontal Flip | Enabled       |
 | Fill Mode       | Nearest       |
 
-The purpose is to expose the model to variations in facial appearance and reduce dependence on exact training-image configurations.
+**The purpose is to expose the model to variations in facial appearance and reduce dependence on exact training-image configurations.**
 
 ---
 
