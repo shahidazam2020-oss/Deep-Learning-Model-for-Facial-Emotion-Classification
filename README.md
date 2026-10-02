@@ -368,7 +368,7 @@ For transfer-learning models:
 
 ### Pixel Normalization
 
-Pixel values are rescaled from:
+**Pixel values are rescaled from:**
 
 ```text
 0–255
