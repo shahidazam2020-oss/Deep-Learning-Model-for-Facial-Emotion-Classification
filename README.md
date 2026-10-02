@@ -69,7 +69,7 @@ The final workflow includes:
 
 # 😊 Emotion Classes
 
-The system classifies facial expressions into **7 emotion categories**:
+**The system classifies facial expressions into **7 emotion categories**:**
 
 | Class | Emotion      |
 | :---: | :----------- |
