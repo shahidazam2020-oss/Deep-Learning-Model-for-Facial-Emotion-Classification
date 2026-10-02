@@ -225,7 +225,7 @@ Images are resized to:
 224 × 224 × 3
 ```
 
-The pretrained VGG16 convolutional base is used as a feature extractor, with selected layers made trainable for fine-tuning.
+**The pretrained VGG16 convolutional base is used as a feature extractor, with selected layers made trainable for fine-tuning.**
 
 ### Custom Classification Head
 
