@@ -457,7 +457,7 @@ class_weight=class_weights_dict
 
 ### ⏹️ EarlyStopping
 
-Stops training when monitored validation performance does not improve according to the configured patience.
+*Stops training when monitored validation performance does not improve according to the configured patience.*
 
 ### 📉 ReduceLROnPlateau
 
