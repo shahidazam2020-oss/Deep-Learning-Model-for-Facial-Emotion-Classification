@@ -344,7 +344,7 @@ Resnet_model_version_2.keras
 └── 📄 README.md
 ```
 
-The notebook uses directory-based image loading with Keras `ImageDataGenerator`.
+**The notebook uses directory-based image loading with Keras `ImageDataGenerator`.**
 
 ---
 
