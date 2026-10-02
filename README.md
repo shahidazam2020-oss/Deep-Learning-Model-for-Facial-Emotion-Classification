@@ -421,7 +421,7 @@ The resulting weights are supplied during model training:
 class_weight=class_weights_dict
 ```
 
-This gives the training process a mechanism to account for differences in the number of images available for each emotion class.
+**This gives the training process a mechanism to account for differences in the number of images available for each emotion class.**
 
 ---
 
