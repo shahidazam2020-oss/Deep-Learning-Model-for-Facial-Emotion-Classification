@@ -31,7 +31,7 @@
 
 **The project explores multiple deep learning approaches, beginning with a custom **Convolutional Neural Network (CNN)** and progressing toward **Transfer Learning** using pretrained **VGG16** and **ResNet50V2** architectures.**
 
-The final workflow includes:
+**The final workflow includes:**
 
 * 🖼️ Facial image preprocessing
 * 🔄 Image augmentation
