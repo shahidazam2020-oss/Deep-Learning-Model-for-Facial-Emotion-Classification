@@ -350,7 +350,7 @@ Resnet_model_version_2.keras
 
 # 🧹 Data Preprocessing
 
-The project performs several preprocessing operations before model training.
+**The project performs several preprocessing operations before model training.**
 
 ### Image Resizing
 
