@@ -161,7 +161,7 @@ The final workflow includes:
 
 ## 1️⃣ Custom CNN
 
-The project first develops a custom convolutional neural network containing multiple convolutional blocks.
+**The project first develops a custom convolutional neural network containing multiple convolutional blocks.**
 
 The architecture includes:
 
