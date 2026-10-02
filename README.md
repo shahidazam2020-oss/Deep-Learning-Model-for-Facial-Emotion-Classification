@@ -453,7 +453,7 @@ class_weight=class_weights_dict
 
 ### 💾 ModelCheckpoint
 
-Saves the best-performing model according to validation loss.
+*Saves the best-performing model according to validation loss.*
 
 ### ⏹️ EarlyStopping
 
