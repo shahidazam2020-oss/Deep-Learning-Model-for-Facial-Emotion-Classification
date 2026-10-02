@@ -52,7 +52,7 @@ The final workflow includes:
 
 # 🎯 Objectives
 
-The primary objectives of this project are to:
+**The primary objectives of this project are to:**
 
 1. Develop a deep learning model for facial emotion classification.
 2. Compare different CNN-based architectures.
