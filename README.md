@@ -449,7 +449,7 @@ class_weight=class_weights_dict
 
 # 🛡️ Training Callbacks
 
-The transfer-learning experiments use callbacks including:
+*The transfer-learning experiments use callbacks including:*
 
 ### 💾 ModelCheckpoint
 
