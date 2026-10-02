@@ -264,7 +264,7 @@ The model uses:
 
 # ⚡ 3️⃣ ResNet50V2 Transfer Learning
 
-The project also implements **ResNet50V2** using ImageNet pretrained weights.
+**The project also implements **ResNet50V2** using ImageNet pretrained weights.**
 
 The model is partially fine-tuned by freezing earlier layers and allowing the final portion of the network to train.
 
