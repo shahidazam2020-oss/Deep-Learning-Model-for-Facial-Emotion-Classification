@@ -427,7 +427,7 @@ class_weight=class_weights_dict
 
 # 🧪 Training Strategy
 
-The project uses several training techniques to improve model training and generalization.
+**The project uses several training techniques to improve model training and generalization.**
 
 ### Training Components
 
