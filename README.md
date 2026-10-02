@@ -301,7 +301,7 @@ Dense 7 + Softmax
 Emotion Prediction
 ```
 
-The notebook saves the trained model as:
+**The notebook saves the trained model as:**
 
 ```text
 ResNet50_Transfer_Learning.keras
