@@ -696,7 +696,7 @@ Move into the project directory:
 cd YOUR-REPOSITORY
 ```
 
-Install the required libraries:
+**Install the required libraries:**
 
 ```bash
 pip install tensorflow
