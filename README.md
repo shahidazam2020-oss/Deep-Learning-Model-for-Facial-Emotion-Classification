@@ -727,7 +727,7 @@ pip install gradio
 
 ### Option 2 — Local Environment
 
-Place the dataset folders in the project directory:
+**Place the dataset folders in the project directory:**
 
 ```text
 project/
