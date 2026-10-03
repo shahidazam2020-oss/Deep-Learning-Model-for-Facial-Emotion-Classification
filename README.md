@@ -481,7 +481,7 @@ class_weight=class_weights_dict
 
 ### 📋 Classification Report
 
-The notebook generates class-level:
+*The notebook generates class-level:*
 
 * Precision
 * Recall
