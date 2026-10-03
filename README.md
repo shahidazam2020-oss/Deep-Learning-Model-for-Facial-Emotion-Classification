@@ -721,7 +721,7 @@ pip install gradio
 /content/test
 ```
 
-Run the notebook cells sequentially.
+**Run the notebook cells sequentially.**
 
 ---
 
