@@ -219,7 +219,7 @@ Classification
 
 **The second major approach uses **VGG16 pretrained on ImageNet**.**
 
-Images are resized to:
+*Images are resized to:*
 
 ```text
 224 × 224 × 3
