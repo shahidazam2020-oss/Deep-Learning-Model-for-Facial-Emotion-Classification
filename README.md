@@ -415,7 +415,7 @@ compute_class_weight(
 )
 ```
 
-The resulting weights are supplied during model training:
+*The resulting weights are supplied during model training:*
 
 ```python
 class_weight=class_weights_dict
