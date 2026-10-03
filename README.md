@@ -471,7 +471,7 @@ class_weight=class_weights_dict
 
 # 📊 Model Evaluation
 
-The project does not rely exclusively on accuracy.
+*The project does not rely exclusively on accuracy.*
 
 Multiple evaluation techniques are implemented:
 
