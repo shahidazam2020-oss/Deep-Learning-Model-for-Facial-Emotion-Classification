@@ -530,7 +530,7 @@ Predicted Emotion
 
 # 🧠 Model Development Journey
 
-The notebook follows an incremental deep learning workflow:
+**The notebook follows an incremental deep learning workflow:**
 
 ```text
                     Facial Emotion Dataset
