@@ -473,7 +473,7 @@ class_weight=class_weights_dict
 
 *The project does not rely exclusively on accuracy.*
 
-Multiple evaluation techniques are implemented:
+*Multiple evaluation techniques are implemented:*
 
 ### 📈 Accuracy
 
