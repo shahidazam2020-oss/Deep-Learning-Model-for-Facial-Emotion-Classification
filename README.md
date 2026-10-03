@@ -360,7 +360,7 @@ Resnet_model_version_2.keras
 48 × 48
 ```
 
-For transfer-learning models:
+*For transfer-learning models:*
 
 ```text
 224 × 224
