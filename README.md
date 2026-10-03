@@ -598,7 +598,7 @@ Predicted Emotion
        😊 Emotion Prediction
 ```
 
-The deployment code maps the model's numerical output back to the corresponding emotion label.
+**The deployment code maps the model's numerical output back to the corresponding emotion label.**
 
 ---
 
