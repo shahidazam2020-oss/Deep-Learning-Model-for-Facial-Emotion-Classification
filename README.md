@@ -502,7 +502,7 @@ Predicted Emotion
 
 ### 📈 ROC Analysis
 
-The project also calculates ROC curves and AUC values for the seven emotion classes.
+*The project also calculates ROC curves and AUC values for the seven emotion classes.*
 
 ---
 
