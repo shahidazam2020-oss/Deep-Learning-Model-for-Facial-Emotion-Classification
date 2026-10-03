@@ -604,7 +604,7 @@ Predicted Emotion
 
 # 🖥️ Gradio Interface
 
-The notebook prepares a Gradio-based interface where a user can upload an image.
+**The notebook prepares a Gradio-based interface where a user can upload an image.**
 
 ```text
 ┌─────────────────────────────────────────────┐
