@@ -498,7 +498,7 @@ Actual Emotion
 Predicted Emotion
 ```
 
-This helps identify which emotions are frequently confused by the model.
+*This helps identify which emotions are frequently confused by the model.*
 
 ### 📈 ROC Analysis
 
