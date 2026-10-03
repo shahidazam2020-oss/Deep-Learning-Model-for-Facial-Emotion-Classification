@@ -163,7 +163,7 @@
 
 **The project first develops a custom convolutional neural network containing multiple convolutional blocks.**
 
-The architecture includes:
+*The architecture includes:*
 
 * `Conv2D`
 * ReLU activation
