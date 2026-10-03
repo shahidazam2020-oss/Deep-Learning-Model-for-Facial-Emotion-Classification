@@ -684,7 +684,7 @@ Predicted Emotion
 
 # 🚀 Installation
 
-Clone the repository:
+**Clone the repository:**
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
