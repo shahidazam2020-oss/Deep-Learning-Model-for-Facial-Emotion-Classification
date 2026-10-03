@@ -569,7 +569,7 @@ Predicted Emotion
 
 *The project includes an interactive **Gradio** prediction workflow.*
 
-The saved ResNet50V2 model is loaded and used for inference.
+*The saved ResNet50V2 model is loaded and used for inference.*
 
 ### Prediction Pipeline
 
