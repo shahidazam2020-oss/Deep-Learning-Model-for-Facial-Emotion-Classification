@@ -776,7 +776,7 @@ The notebook demonstrates several important deep learning concepts:
 
 # 💡 Key Learning Outcomes
 
-This project demonstrates practical experience with:
+**This project demonstrates practical experience with:**
 
 * Convolutional Neural Networks
 * Transfer Learning
