@@ -477,7 +477,7 @@ class_weight=class_weights_dict
 
 ### 📈 Accuracy
 
-Measures the proportion of correctly classified samples.
+*Measures the proportion of correctly classified samples.*
 
 ### 📋 Classification Report
 
