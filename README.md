@@ -490,7 +490,7 @@ class_weight=class_weights_dict
 
 ### 🔲 Confusion Matrix
 
-The confusion matrix provides a class-by-class view of:
+*The confusion matrix provides a class-by-class view of:*
 
 ```text
 Actual Emotion
