@@ -251,7 +251,7 @@ Dropout 0.5
 Dense 7 + Softmax
 ```
 
-The model uses:
+**The model uses:**
 
 * ImageNet pretrained weights
 * Fine-tuning
