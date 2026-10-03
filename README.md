@@ -736,7 +736,7 @@ project/
 └── notebook.ipynb
 ```
 
-Then update the dataset paths in the notebook if required.
+**Then update the dataset paths in the notebook if required.**
 
 ---
 
