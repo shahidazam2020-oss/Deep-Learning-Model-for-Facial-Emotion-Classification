@@ -465,7 +465,7 @@ class_weight=class_weights_dict
 
 ### 📋 CSVLogger
 
-Stores training information in a log file.
+**Stores training information in a log file.**
 
 ---
 
