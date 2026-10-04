@@ -950,7 +950,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 **This project is intended for educational, research, and experimental purposes.**
 
-If you reuse or extend this project, please provide appropriate attribution to the original work and dataset sources where applicable.
+*If you reuse or extend this project, please provide appropriate attribution to the original work and dataset sources where applicable.
 
 ---
 
