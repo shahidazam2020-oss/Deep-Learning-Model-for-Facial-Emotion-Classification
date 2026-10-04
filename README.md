@@ -936,7 +936,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 # ⭐ Repository
 
-**If you find this project useful for learning or experimentation, consider giving the repository a ⭐.*
+**If you find this project useful for learning or experimentation, consider giving the repository a ⭐.**
 
 <p align="center">
 
