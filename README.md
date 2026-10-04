@@ -742,7 +742,7 @@ project/
 
 # 🔬 Experimental Components
 
-The notebook demonstrates several important deep learning concepts:
+*The notebook demonstrates several important deep learning concepts:*
 
 ```text
                     ┌─────────────────────┐
