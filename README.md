@@ -678,7 +678,7 @@ Predicted Emotion
 └── 📄 README.md
 ```
 
-> **Note:** Keep the actual repository structure synchronized with the files you have uploaded to GitHub. The model files above are included in the README structure only if they are present in your repository.
+> ***Note:** Keep the actual repository structure synchronized with the files you have uploaded to GitHub. The model files above are included in the README structure only if they are present in your repository.*
 
 ---
 
