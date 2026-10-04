@@ -870,7 +870,7 @@ Adam
 
 # 🔮 Future Improvements
 
-*Potential future extensions include:*
+**Potential future extensions include:**
 
 * Real-time webcam emotion recognition
 * Face detection before emotion classification
