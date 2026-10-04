@@ -891,7 +891,7 @@ Adam
 
 *The notebook represents an experimental deep learning workflow and includes multiple model configurations.*
 
-Some implementation choices are environment-specific, particularly the Google Colab paths and Google Drive model-storage paths.
+*Some implementation choices are environment-specific, particularly the Google Colab paths and Google Drive model-storage paths.*
 
 The test directory is used as validation/evaluation data in parts of the notebook, so users should distinguish between **validation during model development** and a completely independent **held-out test set** when reporting final experimental results.
 
