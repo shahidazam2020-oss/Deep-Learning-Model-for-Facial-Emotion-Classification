@@ -27,7 +27,7 @@
 
 ## 📌 Project Overview
 
-**This project implements a **Deep Learning Facial Emotion Classification system** capable of classifying facial expressions into **seven emotion categories**.**
+This project implements a **Deep Learning Facial Emotion Classification system** capable of classifying facial expressions into **seven emotion categories**.
 
 **The project explores multiple deep learning approaches, beginning with a custom **Convolutional Neural Network (CNN)** and progressing toward **Transfer Learning** using pretrained **VGG16** and **ResNet50V2** architectures.**
 
