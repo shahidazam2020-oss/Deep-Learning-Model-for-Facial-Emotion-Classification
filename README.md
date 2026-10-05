@@ -354,7 +354,7 @@ Resnet_model_version_2.keras
 
 ### Image Resizing
 
-*For the custom CNN:*
+**For the custom CNN:**
 
 ```text
 48 × 48
