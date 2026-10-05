@@ -714,7 +714,7 @@ pip install gradio
 
 **Upload the notebook to Google Colab and make sure the dataset directories are available at the paths expected by the notebook.**
 
-*The notebook currently uses paths such as:*
+**The notebook currently uses paths such as:**
 
 ```text
 /content/train
