@@ -889,7 +889,7 @@ Adam
 
 # ⚠️ Limitations
 
-*The notebook represents an experimental deep learning workflow and includes multiple model configurations.*
+The notebook represents an experimental deep learning workflow and includes multiple model configurations.*
 
 *Some implementation choices are environment-specific, particularly the Google Colab paths and Google Drive model-storage paths.*
 
