@@ -3,7 +3,9 @@
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
 
-
+<a href="https://github.com/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
 
 
 
