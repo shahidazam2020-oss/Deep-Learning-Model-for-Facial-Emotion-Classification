@@ -1,4 +1,11 @@
 <p align="center">
+<a href="https://github.com/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+
+
+
+
 
 # 🧠 Facial Emotion Classification Using Deep Learning
 
