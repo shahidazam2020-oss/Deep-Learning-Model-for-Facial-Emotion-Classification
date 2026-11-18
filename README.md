@@ -9,7 +9,7 @@
  <a href="https://github.com/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Deep-Learning-Model-for-Facial-Emotion-Classification?display_timestamp=committer&style=flat-square" alt="Last Commit">
   </a>
-
+</p>
 
 # 🧠 Facial Emotion Classification Using Deep Learning
 
