@@ -11,8 +11,11 @@
   </a>
 </p>
 
-# 🧠 Facial Emotion Classification Using Deep Learning
+---
 
+# 🧠 Facial Emotion Classification Using Deep Learning
+<p align="center">
+    
 <img src="https://img.shields.io/badge/Deep%20Learning-Facial%20Emotion%20Recognition-blueviolet?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow">
